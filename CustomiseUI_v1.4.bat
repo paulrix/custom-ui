@@ -167,10 +167,3 @@ echo ...done
 echo.
 echo Script completed. Wait for JBoss7 to fully start before logging in.
 pause
-
-
-
-
-
-
-
