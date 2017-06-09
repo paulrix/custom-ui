@@ -1,0 +1,2 @@
+$path = args[0]
+(Get-Content $path).Replace("imp-exp","imp-exp -Dit.grupposervizi.easy.graphics.top.img=customimages/top.png -Dit.grupposervizi.easy.graphics.background.img=customimages/background.png -Dit.grupposervizi.easy.graphics.login.img=customimages/login.png") | Set-Content $path

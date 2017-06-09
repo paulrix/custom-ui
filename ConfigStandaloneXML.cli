@@ -1,0 +1,2 @@
+connect
+/subsystem=ee:write-attribute(name="global-modules",value=[{"name" => "tgk.img","slot" => "main"}])
